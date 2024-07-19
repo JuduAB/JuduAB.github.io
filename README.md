@@ -1,9 +1,29 @@
-## Judu
->北海虽赊，扶摇可接；
->东隅已逝，桑榆非晚。
+# demo
 
->休对故人思故国，且将新火试新茶，诗酒趁年华。
+This template should help get you started developing with Vue 3 in Vite.
 
->竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。  
->料峭春风吹酒醒，微冷，山头斜照却相迎。  
->回首向来萧瑟处，归去，也无风雨也无晴。
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
